@@ -5,6 +5,8 @@
 // Given an array of length n - n >= 1 && <= 10,000
 // Array is unsorted.
 // Find if the array is sorted in ascending order if we just modify 1 element.
+
+// Complexity: O(n*n) runtime, O(1) space.
 var checkPossibility = function(nums) {
     // Brute force solution by trying all the possibilities for making a change.
     // Best case solution assumes that there is no change required.
@@ -27,6 +29,7 @@ var checkPossibility = function(nums) {
    return false
 };
 
+// O(n) runtime and O(1) space
 function checkSeqValid(nums) {
     let last = -Infinity
     for (const num of nums) {
