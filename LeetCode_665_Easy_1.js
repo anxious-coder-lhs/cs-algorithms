@@ -6,6 +6,8 @@
 // Array is unsorted.
 // Find if the array is sorted in ascending order if we just modify 1 element.
 
+// Pattern: Reducing the problem size.
+
 // Complexity: O(n) runtime, O(1) space.
 var checkPossibility = function(nums) {
     // Solution Approach Pattern - Minimizing the noise in the problem by breaking
