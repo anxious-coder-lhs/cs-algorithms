@@ -6,6 +6,13 @@
 // Given an array of length n - n >= 1 && <= 10,000
 // Array is unsorted.
 // Find if the array is sorted in ascending order if we just modify 1 element.
+
+// Pattern: Reducing the problem size. Finding the indexes where A[i] > A[i+1], we have a problem.
+// If there are more than one index, answer is False
+// If there are 0, answer is True
+// If there is 1 place, following sub-conditions apply.
+    // Checking A[i-2], A[i-1], A[i], A[i+1], A[i+2] to see if the order is maintained.
+
 var checkPossibility = function(nums) {
 // Iterate through each pair of array to check for these conditions.
 // Case 1: If val(i+1) >= val(i) continue
