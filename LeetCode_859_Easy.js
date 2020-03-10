@@ -8,6 +8,7 @@
  * @param {string} B
  * @return {boolean}
  */
+// O(n) run-time and O(1) space.
 var buddyStrings = function(A, B) {
 // Intuition: Removing the noise and reducing the problem using a linear scan and using frequency pattern.
 // If 3 or more elments are different, there is no way one swap can make them same.
@@ -26,6 +27,8 @@ var buddyStrings = function(A, B) {
     for (let i=0;i<A.length;i++) {
         if (A[i] !== B[i]) {
             diff.push(i)
+            // Optimization
+            if (diff.length > 2) return false
         } else {
             const code = A.charCodeAt(i) - 97
             if (elemCount[code] > 0) repititions++
