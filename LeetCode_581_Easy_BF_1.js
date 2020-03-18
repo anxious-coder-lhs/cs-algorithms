@@ -16,18 +16,11 @@ var findUnsortedSubarray = function(nums) {
     
     let leftIdx = Infinity, rightIdx = -Infinity
     for (let i=0;i<nums.length;i++) {
-        const curr = nums[i]
-        let idxToReplace = i
         for (let j=i+1;j<nums.length;j++) {
             if (nums[j] < nums[i]) {
-                idxToReplace = j
+                leftIdx = Math.min(leftIdx, i)
+                rightIdx = Math.max(rightIdx, j)
             }
-        }
-        
-        if (i !== idxToReplace) {
-            if (leftIdx > i) leftIdx = i
-            if (rightIdx < idxToReplace) rightIdx = idxToReplace
-            swap(nums, i, idxToReplace)
         }
     }
     
@@ -36,10 +29,4 @@ var findUnsortedSubarray = function(nums) {
     }
     
     return rightIdx - leftIdx + 1
-}
-
-function swap(nums, i, j) {
-    const temp = nums[i]
-    nums[i] = nums[j]
-    nums[j] = temp
 }
