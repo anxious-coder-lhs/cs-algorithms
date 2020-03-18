@@ -6,7 +6,7 @@
 // Outout: Minimum Continuous subarray length
 // Condition: If subarray is sorted, then the entire array would be sorted.
 
-// O(n log n) run-time, O(1) space time
+// O(n log n) run-time, O(n) space
 var findUnsortedSubarray = function(nums) {
     
     // Intution: Let A be the array and a be the sub-array. Let B be the final sorted array. Comparing the arrays one by one, we can obviously see that the earliest point of mismatch from the sorted property from the 2 ends is the range.
