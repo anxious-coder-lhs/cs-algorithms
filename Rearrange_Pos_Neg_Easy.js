@@ -5,6 +5,8 @@
 // The function uses multiple pointers approach used in many other solutions like the merge sort (merge arrays).
 // This approach leverages 2 pointers to navigate the solution from both the directions leveraging the special property
 // of array. The same approach works fine with the sorted array as well.
+
+// O(n) run-time and O(1) space
 function reArrange(arr) {
   let left = 0, right = arr.length - 1
   while(left < right) {
@@ -22,4 +24,20 @@ function reArrange(arr) {
   }
 
   return arr
+}
+
+// Using auxillary array to replicate arrays at different location.
+// O(n) runtime and space.
+function reArrange(arr) {
+  const newArray = arr.slice()
+  let left = 0, right = arr.length - 1
+  for (const num of arr) {
+    if (num < 0) {
+      newArray[left++] = num
+    } else {
+      newArray[right--] = num
+    }
+  }
+
+  return newArray
 }
