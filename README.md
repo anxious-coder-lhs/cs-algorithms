@@ -12,5 +12,5 @@ I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions i
 * [Roman To Integer](https://leetcode.com/problems/roman-to-integer) | [Solution](./LeetCode_13_Easy.ts)
 * [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./LeetCode_168_Easy.js)
 * [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](.//LeetCode_176_Easy.js)
-* [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Solution] (./LeetCode_193_Easy.sh)
+* [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Solution](./LeetCode_193_Easy.sh)
 * [Count Primes](https://leetcode.com/problems/count-primes) | [Solution 1](./LeetCode_204_Easy.js) | [Solution 2](./LeetCode_204_Easy_BF.js)
