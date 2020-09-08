@@ -14,3 +14,8 @@ I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions i
 * [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](.//LeetCode_176_Easy.js)
 * [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Solution](./LeetCode_193_Easy.sh)
 * [Count Primes](https://leetcode.com/problems/count-primes) | [Solution 1](./LeetCode_204_Easy.js) | [Solution 2](./LeetCode_204_Easy_BF.js)
+
+
+## Hard
+
+* [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
