@@ -16,6 +16,8 @@ I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions i
 * [Count Primes](https://leetcode.com/problems/count-primes) | [Solution 1](./LeetCode_204_Easy.js) | [Solution 2](./LeetCode_204_Easy_BF.js)
 
 
+## Medium
+* [Minimum Remove to Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./LeetCode_ 1249_Medium.ts)
 ## Hard
 
 * [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
