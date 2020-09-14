@@ -19,6 +19,7 @@ I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions i
 ## Medium
 * [Minimum Remove to Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./LeetCode_ 1249_Medium.ts)
 * Finding if the string with curly braces are balanced | [Solution](./BalancedString_Medium.ts)
+* Create a minimum height BST using a sorted input array | [Solution](./MinHeightBST_Medium.ts)
 
 ## Hard
 * [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
