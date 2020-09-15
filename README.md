@@ -22,6 +22,7 @@ I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions i
 * Create a minimum height BST using a sorted input array | [Solution](./MinHeightBST_Medium.ts)
 * Find Longest Peak in an array | [Solution](./LongestPeak_Medium.ts)
 * Monotonic Increasing | [Solution 1](./MonotonicIncreasing_Medium.ts) | [Solution 2](./MonotonicIncreasing_Medium_1.ts)
+* Suffix Trie Construction | [Solution](./SuffixTrie_Medium.ts)
 
 ## Hard
 * [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
