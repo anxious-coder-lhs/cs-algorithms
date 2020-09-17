@@ -29,7 +29,7 @@ Happy to accept any contributions to this in any langugage.
 5. Monotonic Increasing | [Solution 1](./MonotonicIncreasing_Medium.ts) | [Solution 2](./MonotonicIncreasing_Medium_1.ts)
 6. Suffix Trie Construction | [Solution](./SuffixTrie_Medium.ts)
 7. Traversing a 2D Array in a Spiral Order: Returning 1D Array | [Solution](./SpiralTraverse2DArray_Medium.ts)
-8. Finding groups of anagrams in a string | [Solution 1](./Groups_Anagrams_Medium.ts)
+8. Finding groups of anagrams in a string | [Solution 1](./Groups_Anagrams_Medium.ts) | [Solution 2](./Groups_Anagrams_Medium_1.ts)
 
 ## Hard
 1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
