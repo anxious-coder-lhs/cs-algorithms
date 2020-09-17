@@ -14,6 +14,7 @@ I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions i
 4. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](.//LeetCode_176_Easy.js)
 5. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Solution](./LeetCode_193_Easy.sh)
 6. [Count Primes](https://leetcode.com/problems/count-primes) | [Solution 1](./LeetCode_204_Easy.js) | [Solution 2](./LeetCode_204_Easy_BF.js)
+7. [Sorted Array Merge](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./Sorted_Array_Merge.js)
 
 
 ## Medium
@@ -27,3 +28,11 @@ I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions i
 
 ## Hard
 1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
+
+## Sorting
+1. Bubble Sort | [Solution](./Sort_Bubble.js)
+2. Insertion Sort | [Solution](./Sort_Insertion.js)
+3. Merge Sort | [Solution](./Sort_Merge.js)
+4. Quick Sort | [Solution](./Sort_Quick.js)
+5. Radix Sort | [Solution](./Sort_Radix.js)
+6. Selection Sort | [Solution](./Sort_Selection.js)
