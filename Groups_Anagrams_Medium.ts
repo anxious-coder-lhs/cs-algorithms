@@ -2,6 +2,7 @@
 * Problem: Given a string of words, we need to create and return the group of all the anagrams in the string.
 * Brute Force Approach.
 * Creates all the combinations of words to find which all create a group.
+* Complexity: O(n*n*e). n being the number of words, w being the word length
 **/
 export function groupAnagrams(words: string[]) {
 	
