@@ -4,7 +4,11 @@ This repository provides code snippets for several of the programming questions.
 # Programming Langugages
 I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions in one of these programming languages.
 
-# LeetCode
+# Sources
+The problems for the documented solutions have been fetched from various sources including Udemy, AlgoExpert, LeetCode, etc. Wherever possible, I am attaching the source. I am not attaching the sources for premium subscriptions, just to make sure the premium subscriptions are not misused.
+
+# Contributions
+Happy to accept any contributions to this in any langugage.
 
 ## Easy
 
