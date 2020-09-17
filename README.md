@@ -8,21 +8,22 @@ I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions i
 
 ## Easy
 
-* [Find Numbers with Even Numbers of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution](./LeetCode_1295_Easy.js)
-* [Roman To Integer](https://leetcode.com/problems/roman-to-integer) | [Solution](./LeetCode_13_Easy.ts)
-* [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./LeetCode_168_Easy.js)
-* [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](.//LeetCode_176_Easy.js)
-* [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Solution](./LeetCode_193_Easy.sh)
-* [Count Primes](https://leetcode.com/problems/count-primes) | [Solution 1](./LeetCode_204_Easy.js) | [Solution 2](./LeetCode_204_Easy_BF.js)
+1. [Find Numbers with Even Numbers of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution](./LeetCode_1295_Easy.js)
+2. [Roman To Integer](https://leetcode.com/problems/roman-to-integer) | [Solution](./LeetCode_13_Easy.ts)
+3. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./LeetCode_168_Easy.js)
+4. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](.//LeetCode_176_Easy.js)
+5. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Solution](./LeetCode_193_Easy.sh)
+6. [Count Primes](https://leetcode.com/problems/count-primes) | [Solution 1](./LeetCode_204_Easy.js) | [Solution 2](./LeetCode_204_Easy_BF.js)
 
 
 ## Medium
-* [Minimum Remove to Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./LeetCode_ 1249_Medium.ts)
-* Finding if the string with curly braces are balanced | [Solution](./BalancedString_Medium.ts)
-* Create a minimum height BST using a sorted input array | [Solution](./MinHeightBST_Medium.ts)
-* Find Longest Peak in an array | [Solution](./LongestPeak_Medium.ts)
-* Monotonic Increasing | [Solution 1](./MonotonicIncreasing_Medium.ts) | [Solution 2](./MonotonicIncreasing_Medium_1.ts)
-* Suffix Trie Construction | [Solution](./SuffixTrie_Medium.ts)
+1. [Minimum Remove to Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./LeetCode_ 1249_Medium.ts)
+2. Finding if the string with curly braces are balanced | [Solution](./BalancedString_Medium.ts)
+3. Create a minimum height BST using a sorted input array | [Solution](./MinHeightBST_Medium.ts)
+4. Find Longest Peak in an array | [Solution](./LongestPeak_Medium.ts)
+5. Monotonic Increasing | [Solution 1](./MonotonicIncreasing_Medium.ts) | [Solution 2](./MonotonicIncreasing_Medium_1.ts)
+6. Suffix Trie Construction | [Solution](./SuffixTrie_Medium.ts)
+7. Traversing a 2D Array in a Spiral Order: Returning 1D Array | [Solution](./SpiralTraverse2DArray_Medium.ts)
 
 ## Hard
-* [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
+1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
