@@ -1,4 +1,4 @@
-Given an array, return an array where each index stores the product of all numbers in the array except the number at the index itself. 
+// Given an array, return an array where each index stores the product of all numbers in the array except the number at the index itself. 
 
 // O(n) runtime and space.
 // Using a single span to make a product. Following up with another scan to deduce the divided value.
