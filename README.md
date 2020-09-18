@@ -30,6 +30,7 @@ Happy to accept any contributions to this in any langugage.
 6. Suffix Trie Construction | [Solution](./SuffixTrie_Medium.ts)
 7. Traversing a 2D Array in a Spiral Order: Returning 1D Array | [Solution](./SpiralTraverse2DArray_Medium.ts)
 8. Finding groups of anagrams in a string | [Solution 1](./Groups_Anagrams_Medium.ts) | [Solution 2](./Groups_Anagrams_Medium_1.ts)
+9. Finding Longest Palindromic Substring | [Solution 1 BF](./LongestPalindromicString_Medium_BF.ts) | [Solution 2](./LongestPalindromicString_Medium_Opt.ts)
 
 ## Hard
 1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
