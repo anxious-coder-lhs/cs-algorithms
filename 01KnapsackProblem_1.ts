@@ -12,7 +12,7 @@ function findMaxProfit(profits: number[], weights: number[], capacity: number) {
      * Use a brute force technique to figure out all the combination of the weights such that the total sum is less than the capacity.
      * With each weight combination figure out a maximum profit and return.
      */
-    return calculateMaxProfit(profits, weights, capacity, 0);
+    return calculateMaxProfitDP(profits, weights, capacity, 0);
 }
 
 /**
@@ -33,11 +33,11 @@ function calculateMaxProfit(profits: number[], weights: number[], capacity: numb
     // Select the element in one mode, hence reducing the total capacity available.
     if (capacity >= weights[item]) {
         // If the left over capacity is greater than the current item weight.
-        profitWithInclusion = profits[item] + calculateMaxProfit(profits, weights, capacity - weights[item], item + 1)
+        profitWithInclusion = profits[item] + calculateMaxProfitDP(profits, weights, capacity - weights[item], item + 1)
     }
 
     // Skip the element in another mode, hence making no changes to the total capacity available.
-    const profitWithoutInclusion = calculateMaxProfit(profits, weights, capacity, item + 1)
+    const profitWithoutInclusion = calculateMaxProfitDP(profits, weights, capacity, item + 1)
 
     // Returning the maximum profit.
     return Math.max(profitWithInclusion, profitWithoutInclusion);
