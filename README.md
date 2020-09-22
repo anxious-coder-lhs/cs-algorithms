@@ -100,4 +100,4 @@ Happy to accept any contributions to this in any langugage.
 2. Binary Search | [Solution](./Search_LinearSubstring.js)
 
 ## Dynamic Programming
-1. 0/1 Knapsack Problem | [Solution Brute Force](./01KnapsackProblem_1.js) | [Solution Dynamic Programming](./01KnapsackProblem_2.ts)
+1. 0/1 Knapsack Problem | [Solution Brute Force](./01KnapsackProblem_1.js) | [Solution Dynamic Programming Top Down](./01KnapsackProblem_2.ts) | [Solution Dynamic Programming Bottoms Up](./01KnapsackProblem_3.ts)
