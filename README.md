@@ -105,4 +105,5 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Dynamic Programming Top Down](./01KnapsackProblem_2.ts)
    * [Solution Dynamic Programming Bottoms Up](./01KnapsackProblem_3.ts)
    * [Solution Dynamic Programming with Chosen Weights](./01KnapsackProblem_4.ts)
-   * [Solution Optimized Space](./01KnapsackProblem_5.ts)
+   * [Solution Optimized Space 1](./01KnapsackProblem_5.ts)
+   * [Solution Optimized Space 2](./01KnapsackProblem_6.ts)
