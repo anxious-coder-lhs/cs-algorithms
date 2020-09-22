@@ -98,3 +98,6 @@ Happy to accept any contributions to this in any langugage.
 ## Searching
 1. Linear Search | [Solution](./Search_Linear.js)
 2. Binary Search | [Solution](./Search_LinearSubstring.js)
+
+## Dynamic Programming
+1. 0/1 Knapsack Problem | [Solution Brute Force](./01KnapsackProblem_1.js)
