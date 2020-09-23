@@ -5,7 +5,7 @@ This repository provides code snippets for several of the programming questions.
 I use mostly Javascript, Typescript, Java, and Scala. You can expect solutions in one of these programming languages.
 
 # Sources
-The problems for the documented solutions have been fetched from various sources including Udemy, AlgoExpert, LeetCode, etc. Wherever possible, I am attaching the source. I am not attaching the sources for premium subscriptions, just to make sure the premium subscriptions are not misused.
+The problems for the documented solutions have been fetched from various sources including Udemy, AlgoExpert, LeetCode, Educative, etc. Wherever possible, I am attaching the source. I am not attaching the sources for premium subscriptions, just to make sure the premium subscriptions are not misused.
 
 # Contributions
 Happy to accept any contributions to this in any langugage.
@@ -107,3 +107,6 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Dynamic Programming with Chosen Weights](./01KnapsackProblem_4.ts)
    * [Solution Optimized Space 1](./01KnapsackProblem_5.ts)
    * [Solution Optimized Space 2](./01KnapsackProblem_6.ts)
+2. Equal Subset Problem
+   * [Solution Brute Force](./EqualSubsetProblem_1.ts)
+   * [Solution Dynamic Programming Top Down](./EqualSubsetProblem_2.ts)
