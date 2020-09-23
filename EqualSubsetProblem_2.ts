@@ -9,14 +9,14 @@
  * 
  * @param nums 
  */
-function canPartitionEqualSubsetBFDP(nums: number[]) {
+function canPartitionEqualSubsetDP(nums: number[]) {
 
     // Finding the total sum of the entire numbers array.
     const sum = nums.reduce((sum: number, val: number) => sum + val, 0);
     if (sum % 2 === 1) return false
 
     // Recursively creating all the pairs to find a partition which has a sum = sum/2
-    return canPartitionEqualSubsetBFDPHelper(nums, sum/2)
+    return canPartitionEqualSubsetDPHelper(nums, sum/2)
 }
 
 /**
@@ -27,7 +27,7 @@ function canPartitionEqualSubsetBFDP(nums: number[]) {
  * @param sum 
  * @param item 
  */
-function canPartitionEqualSubsetBFDPHelper(nums: number[], sum: number, item: number = 0, dp: boolean[][] = undefined) {
+function canPartitionEqualSubsetDPHelper(nums: number[], sum: number, item: number = 0, dp: boolean[][] = undefined) {
 
     if (item >= nums.length) return false
     if (sum === 0) return true
@@ -41,20 +41,20 @@ function canPartitionEqualSubsetBFDPHelper(nums: number[], sum: number, item: nu
 
     // If the item can fit well within the bounds of the target sum, we shall recursively try adding the item withing the sum for a result.
     if (sum >= nums[item]) {
-        dp[item][sum] = canPartitionEqualSubsetBFDPHelper(nums, sum - nums[item], item + 1, dp)
+        dp[item][sum] = canPartitionEqualSubsetDPHelper(nums, sum - nums[item], item + 1, dp)
         if (dp[item][sum]) return true
     }
     
     // Try skipping the item assuming it will be part of the different set.
-    dp[item][sum] = canPartitionEqualSubsetBFDPHelper(nums, sum, item + 1, dp);
+    dp[item][sum] = canPartitionEqualSubsetDPHelper(nums, sum, item + 1, dp);
     return dp[item][sum]
 }
 
-function testEqualSubsetBFDP(nums: number[]) {
-    const result = canPartitionEqualSubsetBFDP(nums);
+function testEqualSubsetDP(nums: number[]) {
+    const result = canPartitionEqualSubsetDP(nums);
     console.log(`Result for the equal subset parition for array: ${nums} = ${result}`)
 }
 
-testEqualSubsetBFDP([1, 2, 3, 4])
-testEqualSubsetBFDP([1, 1, 3, 4, 7])
-testEqualSubsetBFDP([2, 3, 4, 6])
+testEqualSubsetDP([1, 2, 3, 4])
+testEqualSubsetDP([1, 1, 3, 4, 7])
+testEqualSubsetDP([2, 3, 4, 6])
