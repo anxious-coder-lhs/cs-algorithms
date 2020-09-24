@@ -114,3 +114,5 @@ Happy to accept any contributions to this in any langugage.
 3. Subset Sum Problem
    * [Solution Brute Force](./SubsetSum_1.ts)
    * [Solution Dynamic Progrmming Bottoms Up](./SubsetSum_2.ts)
+4. Minimum Difference Subset Sum
+   * [Solution Brute Force](./MinimumDifferenceSubsetSum_1.ts)
