@@ -113,3 +113,4 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Dynamic Programming Bottoms Up](./EqualSubsetProblem_3.ts)
 3. Subset Sum Problem
    * [Solution Brute Force](./SubsetSum_1.ts)
+   * [Solution Dynamic Progrmming Bottoms Up](./SubsetSum_2.ts)
