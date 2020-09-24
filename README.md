@@ -117,3 +117,4 @@ Happy to accept any contributions to this in any langugage.
 4. Minimum Difference Subset Sum
    * [Solution Brute Force](./MinimumDifferenceSubsetSum_1.ts)
    * [Solution Top Down Dynamic Programming](./MinimumDifferenceSubsetSum_2.ts)
+   * [Solution Bottoms Up Dynamic Programming](./MinimumDifferenceSubsetSum_3.ts)

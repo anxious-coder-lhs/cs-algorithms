@@ -8,7 +8,7 @@
  * We can use memoization to fix this problem.
  * 
  * Time Complexity: O(N * S) where N is the total number of items and S is the total sum or sum/2 in worst case.
- * Space Complexity: O(N) as there would be at max n depths of recursion.
+ * Space Complexity: O(N * S) as there would be at max n depths of recursion, and storage space of all N*S
  * 
  * @param nums
  * 
