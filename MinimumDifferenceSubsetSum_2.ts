@@ -13,9 +13,9 @@
  * @param nums
  * 
  */
-function findMinimumDifferenceSubsetSum(nums: number[]) {
+function findMinimumDifferenceSubsetSumDP(nums: number[]) {
     const sum = nums.reduce((sum, item) => sum + item, 0);
-    const maxSubsetSum = findMinimumDifferenceSubsetSumHelper(nums, Math.floor(sum/2));
+    const maxSubsetSum = findMinimumDifferenceSubsetSumHelperDP(nums, Math.floor(sum/2));
     return sum - 2 * maxSubsetSum; // Since the found subset is added twice for the difference.
 }
 
@@ -30,7 +30,7 @@ function findMinimumDifferenceSubsetSum(nums: number[]) {
  * @param sum 
  * @param item 
  */
-function findMinimumDifferenceSubsetSumHelper(nums: number[], sum: number, item: number = 0, dp: number[][] = undefined): number {
+function findMinimumDifferenceSubsetSumHelperDP(nums: number[], sum: number, item: number = 0, dp: number[][] = undefined): number {
 
     // Exiting when we have exhausted all the items.
     if (item >= nums.length) return 0
@@ -49,17 +49,17 @@ function findMinimumDifferenceSubsetSumHelper(nums: number[], sum: number, item:
 
     let sumWithInclusion = 0
     if (nums[item] <= sum) {
-        sumWithInclusion = nums[item] + findMinimumDifferenceSubsetSumHelper(nums, sum - nums[item], item + 1)
+        sumWithInclusion = nums[item] + findMinimumDifferenceSubsetSumHelperDP(nums, sum - nums[item], item + 1)
     }
 
-    dp[item][sum] = Math.max(sumWithInclusion, findMinimumDifferenceSubsetSumHelper(nums, sum, item + 1))
+    dp[item][sum] = Math.max(sumWithInclusion, findMinimumDifferenceSubsetSumHelperDP(nums, sum, item + 1))
     return dp[item][sum]
 }
 
-function testMinDifferenceSumBF(nums: number[]) {
-    console.log(`Minimum Difference Subset sum for input: ${nums} = ${findMinimumDifferenceSubsetSum(nums)}`);
+function testMinDifferenceSumDP(nums: number[]) {
+    console.log(`Minimum Difference Subset sum for input: ${nums} = ${findMinimumDifferenceSubsetSumDP(nums)}`);
 }
 
-testMinDifferenceSumBF([1, 2, 3, 9])
-testMinDifferenceSumBF([1, 2, 7, 1, 5])
-testMinDifferenceSumBF([1, 3, 100, 4])
+testMinDifferenceSumDP([1, 2, 3, 9])
+testMinDifferenceSumDP([1, 2, 7, 1, 5])
+testMinDifferenceSumDP([1, 3, 100, 4])

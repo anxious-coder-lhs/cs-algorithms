@@ -9,9 +9,9 @@
  * 
  * @param nums
  */
-function findMinimumDifferenceSubsetSum(nums: number[]) {
+function findMinimumDifferenceSubsetSumBF(nums: number[]) {
     const sum = nums.reduce((sum, item) => sum + item, 0);
-    const maxSubsetSum = findMinimumDifferenceSubsetSumHelper(nums, Math.floor(sum/2));
+    const maxSubsetSum = findMinimumDifferenceSubsetSumHelperBF(nums, Math.floor(sum/2));
     return sum - 2 * maxSubsetSum; // Since the found subset is added twice for the difference.
 }
 
@@ -26,7 +26,7 @@ function findMinimumDifferenceSubsetSum(nums: number[]) {
  * @param sum 
  * @param item 
  */
-function findMinimumDifferenceSubsetSumHelper(nums: number[], sum: number, item: number = 0): number {
+function findMinimumDifferenceSubsetSumHelperBF(nums: number[], sum: number, item: number = 0): number {
 
     // Exiting when we have exhausted all the items.
     if (item >= nums.length) return 0
@@ -45,7 +45,7 @@ function findMinimumDifferenceSubsetSumHelper(nums: number[], sum: number, item:
 }
 
 function testMinDifferenceSumBF(nums: number[]) {
-    console.log(`Minimum Difference Subset sum for input: ${nums} = ${findMinimumDifferenceSubsetSum(nums)}`);
+    console.log(`Minimum Difference Subset sum for input: ${nums} = ${findMinimumDifferenceSubsetSumBF(nums)}`);
 }
 
 testMinDifferenceSumBF([1, 2, 3, 9])
