@@ -3,8 +3,8 @@
  * Uses the brute force approach to figure out all the possible subsets that exists for the given array.
  * For each subset, we figure out if any subset sum is equal to the target sum and return true on 1st subset.
  * 
- * Time Complexity: O(2^n) as the solution space to explore includes 2 choices at each level N (numeber of input)
- * Space Complexity: O(n) since thee would be at max n recursions.
+ * Time Complexity: O(N * S) as the solution space to explore includes 2 choices at each level N, but we are using the DP to get the results.
+ * Space Complexity: O(N + S) since thee would be at max n recursions and the storage space is optimized for O(S)
  * 
  * @param nums 
  * @param sum 
