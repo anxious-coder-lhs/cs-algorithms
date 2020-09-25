@@ -58,11 +58,11 @@ Happy to accept any contributions to this in any langugage.
 6. Selection Sort | [Solution](./Sort_Selection.js)
 
 ## Frequency Pattern
-1. Anagram Check | [Solution](./Anagram_Check_FP.js)
-2. Are Same with Squares? | [Solution](./Array_Same_With_Squares_FP.js)
-3. Check Substring | [Solution](./Check_Substring_FP.js)
-4. Count Characters in String | [Solution](./Count_Characters_In_String_FP.js)
-5. Same Frequency | [Solution](./Same_Frequency_FP.js)
+1. Anagram Check | [Solution](./frequency_pattern/Anagram_Check_FP.js)
+2. Are Same with Squares? | [Solution](./frequency_pattern/Array_Same_With_Squares_FP.js)
+3. Check Substring | [Solution](./frequency_pattern/Check_Substring_FP.js)
+4. Count Characters in String | [Solution](./frequency_pattern/Count_Characters_In_String_FP.js)
+5. Same Frequency | [Solution](./frequency_pattern/Same_Frequency_FP.js)
 
 ## Multiple Pointers Pattern
 1. Are there Duplicates? | [Solution](./multiple_pointers_pattern/Are_There_Duplicates_MP.js)
