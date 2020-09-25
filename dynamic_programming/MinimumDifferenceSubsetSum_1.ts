@@ -38,10 +38,10 @@ function findMinimumDifferenceSubsetSumHelperBF(nums: number[], sum: number, ite
 
     let sumWithInclusion = 0
     if (nums[item] <= sum) {
-        sumWithInclusion = nums[item] + findMinimumDifferenceSubsetSumHelper(nums, sum - nums[item], item + 1)
+        sumWithInclusion = nums[item] + findMinimumDifferenceSubsetSumHelperBF(nums, sum - nums[item], item + 1)
     }
 
-    return Math.max(sumWithInclusion, findMinimumDifferenceSubsetSumHelper(nums, sum, item + 1))
+    return Math.max(sumWithInclusion, findMinimumDifferenceSubsetSumHelperBF(nums, sum, item + 1))
 }
 
 function testMinDifferenceSumBF(nums: number[]) {

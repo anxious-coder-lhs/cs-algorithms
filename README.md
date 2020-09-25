@@ -121,3 +121,5 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Brute Force](./dynamic_programming/CountOfSubsetSum_1.ts)
    * [Solution Top Down Dynamic Programming](./dynamic_programming/CountOfSubsetSum_2.ts)
    * [Solution Bottoms Up Dynamic Programming](./dynamic_programming/CountOfSubsetSum_3.ts)
+6. Target Sum using positive negative assignments
+   * [Solution Brute Force](./dynamic_programming/PositiveNegativeTargetSum_1.ts)
