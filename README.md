@@ -46,7 +46,7 @@ Happy to accept any contributions to this in any langugage.
 10. Min Max Stack | [Solution](./level_medium/MinMaxStack_Medium.ts)
 
 ## Hard
-1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
+1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./level_hard/LeetCode_41_Hard.ts)
 
 ## Sorting
 1. Bubble Sort | [Solution](./sorting/Sort_Bubble.js)
