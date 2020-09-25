@@ -85,9 +85,9 @@ Happy to accept any contributions to this in any langugage.
 12. Stringify Numbers | [Solution](./StringifyNumbers_Recursive.js)
 
 ## Sliding Window Pattern
-1. Finding Longest Substring | [Solution](./Find_Longest_Substring_SW.js)
-2. Max Subarray Sum | [Solution](./Max_Subarray_Sum_SW.js)
-3. Min Subarray Length | [Solution](./Min_Subarray_Length_SW.js)
+1. Finding Longest Substring | [Solution](./sliding_window_pattern/Find_Longest_Substring_SW.js)
+2. Max Subarray Sum | [Solution](./sliding_window_pattern/Max_Subarray_Sum_SW.js)
+3. Min Subarray Length | [Solution](./sliding_window_pattern/Min_Subarray_Length_SW.js)
 
 ## Linked List
 1. Detecting Loops in Linked List | [Solution](./linked_list/Linked_List_Loop_Easy.js)
