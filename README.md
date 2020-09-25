@@ -101,24 +101,24 @@ Happy to accept any contributions to this in any langugage.
 
 ## Dynamic Programming
 1. 0/1 Knapsack Problem
-   * [Solution Brute Force](./01KnapsackProblem_1.js)
-   * [Solution Dynamic Programming Top Down](./01KnapsackProblem_2.ts)
-   * [Solution Dynamic Programming Bottoms Up](./01KnapsackProblem_3.ts)
-   * [Solution Dynamic Programming with Chosen Weights](./01KnapsackProblem_4.ts)
-   * [Solution Optimized Space 1](./01KnapsackProblem_5.ts)
-   * [Solution Optimized Space 2](./01KnapsackProblem_6.ts)
+   * [Solution Brute Force](./dynamic_programming/01KnapsackProblem_1.ts)
+   * [Solution Dynamic Programming Top Down](./dynamic_programming/01KnapsackProblem_2.ts)
+   * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/01KnapsackProblem_3.ts)
+   * [Solution Dynamic Programming with Chosen Weights](./dynamic_programming/01KnapsackProblem_4.ts)
+   * [Solution Optimized Space 1](./dynamic_programming/01KnapsackProblem_5.ts)
+   * [Solution Optimized Space 2](./dynamic_programming/01KnapsackProblem_6.ts)
 2. Equal Subset Problem
-   * [Solution Brute Force](./EqualSubsetProblem_1.ts)
-   * [Solution Dynamic Programming Top Down](./EqualSubsetProblem_2.ts)
-   * [Solution Dynamic Programming Bottoms Up](./EqualSubsetProblem_3.ts)
+   * [Solution Brute Force](./dynamic_programming/EqualSubsetProblem_1.ts)
+   * [Solution Dynamic Programming Top Down](./dynamic_programming/EqualSubsetProblem_2.ts)
+   * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/EqualSubsetProblem_3.ts)
 3. Subset Sum Problem
-   * [Solution Brute Force](./SubsetSum_1.ts)
-   * [Solution Dynamic Progrmming Bottoms Up](./SubsetSum_2.ts)
+   * [Solution Brute Force](./dynamic_programming/SubsetSum_1.ts)
+   * [Solution Dynamic Progrmming Bottoms Up](./dynamic_programming/SubsetSum_2.ts)
 4. Minimum Difference Subset Sum
-   * [Solution Brute Force](./MinimumDifferenceSubsetSum_1.ts)
-   * [Solution Top Down Dynamic Programming](./MinimumDifferenceSubsetSum_2.ts)
-   * [Solution Bottoms Up Dynamic Programming](./MinimumDifferenceSubsetSum_3.ts)
+   * [Solution Brute Force](./dynamic_programming/MinimumDifferenceSubsetSum_1.ts)
+   * [Solution Top Down Dynamic Programming](./dynamic_programming/MinimumDifferenceSubsetSum_2.ts)
+   * [Solution Bottoms Up Dynamic Programming](./dynamic_programming/MinimumDifferenceSubsetSum_3.ts)
 5. Count of Subset Sum
-   * [Solution Brute Force](./CountOfSubsetSum_1.ts)
-   * [Solution Top Down Dynamic Programming](./CountOfSubsetSum_2.ts)
-   * [Solution Bottoms Up Dynamic Programming](./CountOfSubsetSum_3.ts)
+   * [Solution Brute Force](./dynamic_programming/CountOfSubsetSum_1.ts)
+   * [Solution Top Down Dynamic Programming](./dynamic_programming/CountOfSubsetSum_2.ts)
+   * [Solution Bottoms Up Dynamic Programming](./dynamic_programming/CountOfSubsetSum_3.ts)
