@@ -124,3 +124,4 @@ Happy to accept any contributions to this in any langugage.
 6. Target Sum using positive negative assignments
    * [Solution Brute Force](./dynamic_programming/PositiveNegativeTargetSum_1.ts)
    * [Solution Dynamic Programming Top Down](./dynamic_programming/PositiveNegativeTargetSum_2.ts)
+   * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/PositiveNegativeTargetSum_3.ts)
