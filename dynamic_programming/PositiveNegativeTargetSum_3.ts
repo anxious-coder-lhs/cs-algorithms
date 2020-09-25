@@ -23,7 +23,7 @@
  * Solution is based on the fact that a set of numbers should be found that can be used as a negative numbers to achieve the target sum
  * using the total sum. These set of numbers (sum) would be deducted twice from the total sum as described above.
  */
-function positiveNegativeTargetSumDP(nums: number[], targetSum: number) {
+function positiveNegativeTargetSumDP1(nums: number[], targetSum: number) {
     // Calculate the range of maximum sum that can be achieved from the numbers.
     const totalSum = nums.reduce((sum, val) => sum + val, 0);
     const negationSum = (Math.abs(targetSum - totalSum))/2;
@@ -53,9 +53,9 @@ function positiveNegativeTargetSumDP(nums: number[], targetSum: number) {
     return dp[nums.length - 1][negationSum];
 }
 
-function testPositiveNegativeTargetSumDP(nums: number[], sum: number) {
-    console.log(`Total Count for positive negative target sum for input: ${nums} and target sum: ${sum} = ${positiveNegativeTargetSumDP(nums, sum)}`)
+function testPositiveNegativeTargetSumDP1(nums: number[], sum: number) {
+    console.log(`Total Count for positive negative target sum for input: ${nums} and target sum: ${sum} = ${positiveNegativeTargetSumDP1(nums, sum)}`)
 }
 
-testPositiveNegativeTargetSumDP([1, 1, 2, 3], 1)
-testPositiveNegativeTargetSumDP([1, 2, 7, 1], 9)
+testPositiveNegativeTargetSumDP1([1, 1, 2, 3], 1)
+testPositiveNegativeTargetSumDP1([1, 2, 7, 1], 9)
