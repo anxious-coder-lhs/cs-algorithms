@@ -121,3 +121,4 @@ Happy to accept any contributions to this in any langugage.
 5. Count of Subset Sum
    * [Solution Brute Force](./CountOfSubsetSum_1.ts)
    * [Solution Top Down Dynamic Programming](./CountOfSubsetSum_2.ts)
+   * [Solution Bottoms Up Dynamic Programming](./CountOfSubsetSum_3.ts)
