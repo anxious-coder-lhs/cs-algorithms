@@ -65,10 +65,10 @@ Happy to accept any contributions to this in any langugage.
 5. Same Frequency | [Solution](./Same_Frequency_FP.js)
 
 ## Multiple Pointers Pattern
-1. Are there Duplicates? | [Solution](./Are_There_Duplicates_MP.js)
-2. Average Pair | [Solution](./Average_Pair_MP.js)
-3. Count Unique Values | [Solution](./Count_Unique_Values_MP.js)
-4. Zero Sum Pair | [Solution](./Zero_Sum_Pair_MP.js)
+1. Are there Duplicates? | [Solution](./multiple_pointers_pattern/Are_There_Duplicates_MP.js)
+2. Average Pair | [Solution](./multiple_pointers_pattern/Average_Pair_MP.js)
+3. Count Unique Values | [Solution](./multiple_pointers_pattern/Count_Unique_Values_MP.js)
+4. Zero Sum Pair | [Solution](./multiple_pointers_pattern/Zero_Sum_Pair_MP.js)
 
 ## Recursive Pattern
 1. Capitalize Words | [Solution](./recursive_pattern/CapitalizeWords_Recursive.js)
