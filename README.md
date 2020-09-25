@@ -50,12 +50,12 @@ Happy to accept any contributions to this in any langugage.
 1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
 
 ## Sorting
-1. Bubble Sort | [Solution](./Sort_Bubble.js)
-2. Insertion Sort | [Solution](./Sort_Insertion.js)
-3. Merge Sort | [Solution](./Sort_Merge.js)
-4. Quick Sort | [Solution](./Sort_Quick.js)
-5. Radix Sort | [Solution](./Sort_Radix.js)
-6. Selection Sort | [Solution](./Sort_Selection.js)
+1. Bubble Sort | [Solution](./sorting/Sort_Bubble.js)
+2. Insertion Sort | [Solution](./sorting/Sort_Insertion.js)
+3. Merge Sort | [Solution](./sorting/Sort_Merge.js)
+4. Quick Sort | [Solution](./sorting/Sort_Quick.js)
+5. Radix Sort | [Solution](./sorting/Sort_Radix.js)
+6. Selection Sort | [Solution](./sorting/Sort_Selection.js)
 
 ## Frequency Pattern
 1. Anagram Check | [Solution](./frequency_pattern/Anagram_Check_FP.js)
