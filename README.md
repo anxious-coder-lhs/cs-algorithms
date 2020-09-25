@@ -96,8 +96,8 @@ Happy to accept any contributions to this in any langugage.
 4. Reverse Linked List | [Solution](./Linked_List_Reverse_Easy.js)
 
 ## Searching
-1. Linear Search | [Solution](./Search_Linear.js)
-2. Binary Search | [Solution](./Search_LinearSubstring.js)
+1. Linear Search | [Solution](./searching/Search_Linear.js)
+2. Binary Search | [Solution](./searching/Search_LinearSubstring.js)
 
 ## Dynamic Programming
 1. 0/1 Knapsack Problem
