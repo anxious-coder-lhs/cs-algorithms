@@ -90,10 +90,10 @@ Happy to accept any contributions to this in any langugage.
 3. Min Subarray Length | [Solution](./Min_Subarray_Length_SW.js)
 
 ## Linked List
-1. Detecting Loops in Linked List | [Solution](./Linked_List_Loop_Easy.js)
-2. Find Middle Node in Linked List | [Solution](./Linked_List_Middle.js)
-3. Find nth node from last | [Solution](./Linked_List_nth_node_from_last.js)
-4. Reverse Linked List | [Solution](./Linked_List_Reverse_Easy.js)
+1. Detecting Loops in Linked List | [Solution](./linked_list/Linked_List_Loop_Easy.js)
+2. Find Middle Node in Linked List | [Solution](./linked_list/Linked_List_Middle.js)
+3. Find nth node from last | [Solution](./linked_list/Linked_List_nth_node_from_last.js)
+4. Reverse Linked List | [Solution](./linked_list/Linked_List_Reverse_Easy.js)
 
 ## Searching
 1. Linear Search | [Solution](./searching/Search_Linear.js)
