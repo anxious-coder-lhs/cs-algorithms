@@ -71,7 +71,7 @@ Happy to accept any contributions to this in any langugage.
 ## Recursive Pattern
 1. Capitalize Words | [Solution](./recursive_pattern/CapitalizeWords_Recursive.js)
 2. Collect Strings | [Solution](./recursive_pattern/CollectStrings_Recursive.js)
-3. [Fibonnaci](./fibonnaci-README.md) | [Solution Bottoms Up](./recursive_pattern/fib-compute-bottoms-up.js) | [Solution Dynamic Programming](./recursive_pattern/fib-compute-dynamic-programming.js) | [Solution Recursion](./recursive_pattern/fib-compute-recursion.js) | [Solution Recursive](./Fibonnaci_Recursive.js)
+3. [Fibonnaci](./recursive_pattern/fibonnaci-README.md) | [Solution Bottoms Up](./recursive_pattern/fib-compute-bottoms-up.js) | [Solution Dynamic Programming](./recursive_pattern/fib-compute-dynamic-programming.js) | [Solution Recursion](./recursive_pattern/fib-compute-recursion.js) | [Solution Recursive](./Fibonnaci_Recursive.js)
 4. Factorial | [Solution](./recursive_pattern/Factorial_Recursive.js)
 5. Flatten | [Solution](./recursive_pattern/Flatten_Recursive.js)
 6. Is Palindrome? | [Solution](./recursive_pattern/Flatten_Recursive.js)
