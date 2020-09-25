@@ -34,17 +34,16 @@ Happy to accept any contributions to this in any langugage.
 
 
 ## Medium
-1. [Minimum Remove to Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./LeetCode_ 1249_Medium.ts)
-2. Finding if the string with curly braces are balanced | [Solution](./BalancedString_Medium.ts)
-3. Create a minimum height BST using a sorted input array | [Solution](./MinHeightBST_Medium.ts)
-4. Find Longest Peak in an array | [Solution](./LongestPeak_Medium.ts)
-5. Monotonic Increasing | [Solution 1](./MonotonicIncreasing_Medium.ts) | [Solution 2](./MonotonicIncreasing_Medium_1.ts)
-6. Suffix Trie Construction | [Solution](./SuffixTrie_Medium.ts)
-7. Traversing a 2D Array in a Spiral Order: Returning 1D Array | [Solution](./SpiralTraverse2DArray_Medium.ts)
-8. Finding groups of anagrams in a string | [Solution 1](./Groups_Anagrams_Medium.ts) | [Solution 2](./Groups_Anagrams_Medium_1.ts)
-9. Finding Longest Palindromic Substring | [Solution 1 BF](./LongestPalindromicString_Medium_BF.ts) | [Solution 2](./LongestPalindromicString_Medium_Opt.ts)
-10. Searching in a Sorted Array | [Solution 1](./Search_Sorted_Array_1.ts) | [Solution 2](./Search_Sorted_Array_2.ts)
-11. Min Max Stack | [Solution](./MinMaxStack.ts)
+1. [Minimum Remove to Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./level_medium/LeetCode_1249_Medium.ts)
+2. Finding if the string with curly braces are balanced | [Solution](./level_medium/BalancedString_Medium.ts)
+3. Create a minimum height BST using a sorted input array | [Solution](./level_medium/MinHeightBST_Medium.ts)
+4. Find Longest Peak in an array | [Solution](./level_medium/LongestPeak_Medium.ts)
+5. Monotonic Increasing | [Solution 1](./level_medium/MonotonicIncreasing_Medium.ts) | [Solution 2](./level_medium/MonotonicIncreasing_Medium_1.ts)
+6. Suffix Trie Construction | [Solution](./level_medium/SuffixTrie_Medium.ts)
+7. Traversing a 2D Array in a Spiral Order: Returning 1D Array | [Solution](./level_medium/SpiralTraverse2DArray_Medium.ts)
+8. Finding groups of anagrams in a string | [Solution 1](./level_medium/Groups_Anagrams_Medium.ts) | [Solution 2](./level_medium/Groups_Anagrams_Medium_1.ts)
+9. Finding Longest Palindromic Substring | [Solution 1 BF](./level_medium/LongestPalindromicString_Medium_BF.ts) | [Solution 2](./level_medium/LongestPalindromicString_Medium_Opt.ts)
+10. Min Max Stack | [Solution](./level_medium/MinMaxStack_Medium.ts)
 
 ## Hard
 1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode_41_Hard.ts)
@@ -98,6 +97,7 @@ Happy to accept any contributions to this in any langugage.
 ## Searching
 1. Linear Search | [Solution](./searching/Search_Linear.js)
 2. Binary Search | [Solution](./searching/Search_LinearSubstring.js)
+3. Searching in a Sorted Array | [Solution 1](./searching/Search_Sorted_Array_1.ts) | [Solution 2](./searching/Search_Sorted_Array_2.ts)
 
 ## Dynamic Programming
 1. 0/1 Knapsack Problem
