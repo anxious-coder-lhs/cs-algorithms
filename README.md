@@ -129,3 +129,4 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Brute Force](./dynamic_programming/UnboundedKnapsackProblem_1.ts)
    * [Solution Top Down Dynamic Programming](./dynamic_programming/UnboundedKnapsackProblem_2.ts)
    * [Solution Bottoms Up Dynamic Programming](./dynamic_programming/UnboundedKnapsackProblem_3.ts)
+   * [Solution Bottoms up Dynamic Programming with BackTracked Results](./dynamic_programming/UnboundedKnapsackProblem_4.ts)
