@@ -136,3 +136,6 @@ Happy to accept any contributions to this in any langugage.
 6. Coin Change
    * [Solution Brute Force](./dynamic_programming/CoinChange_1.ts)
    * [Solution Bottoms Up Dynamic Programming](./dynamic_programming/CoinChange_2.ts)
+7. Minimum Coin Change Needed
+   * [Solution Brute Force](./dynamic_programming/MinCoinChange_1.ts)
+   * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/MinCoinChange_2.ts)
