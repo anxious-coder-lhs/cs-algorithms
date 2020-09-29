@@ -132,3 +132,4 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Bottoms up Dynamic Programming with BackTracked Results](./dynamic_programming/UnboundedKnapsackProblem_4.ts)
 8. Road Cutting
    * [Solution Brute Force](./dynamic_programming/RoadCutting_1.ts)
+   * [Solution Bottoms Up DP with Chosen Lengths](./dynamic_programming/RoadCutting_2.ts)
