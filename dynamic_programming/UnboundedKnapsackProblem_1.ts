@@ -8,6 +8,9 @@
  * At each step of capacity, there are 2 options: we either choose to include the current element or either exclude it.
  * If we choose to include an item for the knapsack, in the next iteration we can still choose that item again.
  * 
+ * Complexity: Time: O(2^N), Space: O(N + C) where N is the number of items in the input.
+ * Each recursion step makes 2 decision tree navigation and the recursion tree depth at max would be N + C.
+ * 
  * @param profits 
  * @param weights 
  * @param capacity 
