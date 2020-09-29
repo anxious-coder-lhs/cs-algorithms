@@ -130,3 +130,5 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Top Down Dynamic Programming](./dynamic_programming/UnboundedKnapsackProblem_2.ts)
    * [Solution Bottoms Up Dynamic Programming](./dynamic_programming/UnboundedKnapsackProblem_3.ts)
    * [Solution Bottoms up Dynamic Programming with BackTracked Results](./dynamic_programming/UnboundedKnapsackProblem_4.ts)
+8. Road Cutting
+   * [Solution Brute Force](./dynamic_programming/RoadCutting_1.ts)
