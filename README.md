@@ -125,3 +125,5 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Brute Force](./dynamic_programming/PositiveNegativeTargetSum_1.ts)
    * [Solution Dynamic Programming Top Down](./dynamic_programming/PositiveNegativeTargetSum_2.ts)
    * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/PositiveNegativeTargetSum_3.ts)
+7. Unbounded Knapsack Problem
+   * [Solution Brute Force](./dynamic_programming/UnboundedKnapsackProblem_1.ts)
