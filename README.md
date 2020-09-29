@@ -135,3 +135,4 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Bottoms Up DP with Chosen Lengths](./dynamic_programming/RoadCutting_2.ts)
 6. Coin Change
    * [Solution Brute Force](./dynamic_programming/CoinChange_1.ts)
+   * [Solution Bottoms Up Dynamic Programming](./dynamic_programming/CoinChange_2.ts)

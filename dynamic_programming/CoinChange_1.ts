@@ -4,8 +4,8 @@
  * Solution: Brute force solution finds out all the possible ways of making the coin change by creating
  * all the subsets possible with the given denominations that makes up the total target amount.
  * 
- * Complexity: Time O(2^n) n being the denominations as all the possible subsets are created.
- * Complexity: Space O(n) as the max depth for recursion is n.
+ * Complexity: Time O(2^(T+C)) C being the denominations and T being the max total.
+ * Complexity: Space O(T+C) as the max depth for recursion.
  * 
  * @param denominations 
  * @param totalAmount 
