@@ -139,3 +139,5 @@ Happy to accept any contributions to this in any langugage.
 7. Minimum Coin Change Needed
    * [Solution Brute Force](./dynamic_programming/MinCoinChange_1.ts)
    * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/MinCoinChange_2.ts)
+8. Maximum Ribbon Cut
+   * [Solution Brute Force](./dynamic_programming/MaximumRibbonCut_1.ts)
