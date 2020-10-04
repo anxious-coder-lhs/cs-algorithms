@@ -45,6 +45,10 @@ Happy to accept any contributions to this in any langugage.
 10. Min Max Stack | [Solution](./level_medium/MinMaxStack_Medium.ts)
 11. [Leet Code 146 - LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution Java Collection](./level_medium/LeetCode_LRU.java) | [Solution Typescript Custom](./medium/../LeetCode_LRU_1.ts)
 12. [Leet Code 283 Move Zeros](https://leetcode.com/problems/move-zeroes/solution/) | [Solution](./level_easy/LeetCode_283_MoveZeros_1.ts) | [Solution 2](./level_easy/LeetCode_283_MoveZeros_2.ts)
+13. [Leet Code 70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution DP Top Down](./level_easy/LeetCode_70_Climbing_Stairs_Easy.ts) | [Solution DP Bottoms Up](level_easy/LeetCode_70_Climbing_Stairs_1_Easy.ts)
+14. [Leet Code 200 Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution 1](./level_medium/LeetCode_200_NumberOfIslands.ts)
+
+
 ## Hard
 1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./level_hard/LeetCode_41_Hard.ts)
 
