@@ -47,6 +47,7 @@ Happy to accept any contributions to this in any langugage.
 12. [Leet Code 283 Move Zeros](https://leetcode.com/problems/move-zeroes/solution/) | [Solution](./level_easy/LeetCode_283_MoveZeros_1.ts) | [Solution 2](./level_easy/LeetCode_283_MoveZeros_2.ts)
 13. [Leet Code 70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution DP Top Down](./level_easy/LeetCode_70_Climbing_Stairs_Easy.ts) | [Solution DP Bottoms Up](level_easy/LeetCode_70_Climbing_Stairs_1_Easy.ts)
 14. [Leet Code 200 Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution 1 DFS](./level_medium/LeetCode_200_NumberOfIslands.ts) | [Solution BFS](./level_medium/LeetCode_200_NumberOfIslands_1.ts) | [Solution Union Find](./level_medium/LeetCode_200_NumberOfIslands_2.ts)
+15. [Leet Code 362 Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [Solution 1](./level_medium/LeetCode_362_Hit_Counter_1.ts)
 
 
 ## Hard
