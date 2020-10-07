@@ -48,7 +48,7 @@ Happy to accept any contributions to this in any langugage.
 13. [Leet Code 70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution DP Top Down](./level_easy/LeetCode_70_Climbing_Stairs_Easy.ts) | [Solution DP Bottoms Up](level_easy/LeetCode_70_Climbing_Stairs_1_Easy.ts)
 14. [Leet Code 200 Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution 1 DFS](./level_medium/LeetCode_200_NumberOfIslands.ts) | [Solution BFS](./level_medium/LeetCode_200_NumberOfIslands_1.ts) | [Solution Union Find](./level_medium/LeetCode_200_NumberOfIslands_2.ts)
 15. [Leet Code 362 Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [Solution 1](./level_medium/LeetCode_362_Hit_Counter_1.ts) | [Solution 2](./level_medium/LeetCode_362_Hit_Counter_Medium.ts)
-16. [LeetCode Web Crawler 1242](https://leetcode.com/problems/web-crawler-multithreaded/) | [Solution 1 ](./level_medium/LeetCode_WebCrawler_MultiThreaded_1242.java)
+16. [LeetCode Web Crawler 1242](https://leetcode.com/problems/web-crawler-multithreaded/) | [Solution 1 ](./level_medium/LeetCode_WebCrawler_MultiThreaded_1242.java) | [Solution 2](level_medium/LeetCode_WebCrawler_MultiThreaded_1242_1.java)
 
 
 ## Hard
