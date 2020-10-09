@@ -30,7 +30,7 @@ Happy to accept any contributions to this in any langugage.
 17. Rearrange Sorted Max Min | [Solution](./level_easy/Rearrange_Sorted_Max_Min.js)
 18. String Duplicates | [Solution](./level_easy/String-Duplicates.js)
 19. [String Reversal](./level_easy/string-reversal-README.md) | [Solution](./recursive_pattern/StringReverse_Recursive.js)
-
+20. Valid Paranthesis | [Solution 1](./level_easy/Paranthesis_Mismatch.ts)
 
 ## Medium
 1. [Minimum Remove to Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./level_medium/LeetCode_1249_Medium.ts)
@@ -49,6 +49,7 @@ Happy to accept any contributions to this in any langugage.
 14. [Leet Code 200 Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution 1 DFS](./level_medium/LeetCode_200_NumberOfIslands.ts) | [Solution BFS](./level_medium/LeetCode_200_NumberOfIslands_1.ts) | [Solution Union Find](./level_medium/LeetCode_200_NumberOfIslands_2.ts)
 15. [Leet Code 362 Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [Solution 1](./level_medium/LeetCode_362_Hit_Counter_1.ts) | [Solution 2](./level_medium/LeetCode_362_Hit_Counter_Medium.ts)
 16. [LeetCode Web Crawler 1242](https://leetcode.com/problems/web-crawler-multithreaded/) | [Solution 1 ](./level_medium/LeetCode_WebCrawler_MultiThreaded_1242.java) | [Solution 2](level_medium/LeetCode_WebCrawler_MultiThreaded_1242_1.java)
+17. [Leet Code 554 Brick Wall](https://leetcode.com/problems/brick-wall/) | [Solution 1](./level_medium/LeetCode_554_Brick_Wall_Medium.ts)
 
 
 ## Hard
