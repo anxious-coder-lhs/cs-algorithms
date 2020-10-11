@@ -54,6 +54,7 @@ Happy to accept any contributions to this in any langugage.
 
 ## Hard
 1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./level_hard/LeetCode_41_Hard.ts)
+2. [Read N Characters Given Read 4 II - Call Multiple Times - LeetCode 158](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [Solution 1](./level_hard/LeetCode_158_Hard.java) | [Solution 2 Optimized](./level_hard/LeetCode_158_Hard_1.java)
 
 ## Sorting
 1. Bubble Sort | [Solution](./sorting/Sort_Bubble.js)
