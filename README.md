@@ -50,7 +50,7 @@ Happy to accept any contributions to this in any langugage.
 15. [Leet Code 362 Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [Solution 1](./level_medium/LeetCode_362_Hit_Counter_1.ts) | [Solution 2](./level_medium/LeetCode_362_Hit_Counter_Medium.ts)
 16. [LeetCode Web Crawler 1242](https://leetcode.com/problems/web-crawler-multithreaded/) | [Solution 1 ](./level_medium/LeetCode_WebCrawler_MultiThreaded_1242.java) | [Solution 2](level_medium/LeetCode_WebCrawler_MultiThreaded_1242_1.java)
 17. [Leet Code 554 Brick Wall](https://leetcode.com/problems/brick-wall/) | [Solution 1](./level_medium/LeetCode_554_Brick_Wall_Medium.ts)
-18. [Leet Code 1190 Reverse Substrings Between Each Pair of Paranthesis](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution 1](level_medium/LeetCode_1190_Reverse_Substrings.ts)
+18. [Leet Code 1190 Reverse Substrings Between Each Pair of Paranthesis](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution 1](level_medium/LeetCode_1190_Reverse_Substrings.ts) | [Solution Optimized](level_medium/LeetCode_1190_Reverse_Substrings_1.ts)
 
 
 ## Hard

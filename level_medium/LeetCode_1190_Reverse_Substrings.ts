@@ -10,7 +10,8 @@
  * The elements of the internal brackets are added after reversing them back into the
  * stack for further processing.
  * 
- * Complexity: Time O(n), Space O(n)
+ * Complexity: Time O(n^2) in the worst case as the loop for stack might be happening almost n/2 times.
+ * Space O(n)
  * 
  * @param s 
  */
