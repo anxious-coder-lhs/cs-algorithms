@@ -51,7 +51,7 @@ Happy to accept any contributions to this in any langugage.
 16. [LeetCode Web Crawler 1242](https://leetcode.com/problems/web-crawler-multithreaded/) | [Solution 1 ](./level_medium/LeetCode_WebCrawler_MultiThreaded_1242.java) | [Solution 2](level_medium/LeetCode_WebCrawler_MultiThreaded_1242_1.java)
 17. [Leet Code 554 Brick Wall](https://leetcode.com/problems/brick-wall/) | [Solution 1](./level_medium/LeetCode_554_Brick_Wall_Medium.ts)
 18. [Leet Code 1190 Reverse Substrings Between Each Pair of Paranthesis](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution 1](level_medium/LeetCode_1190_Reverse_Substrings.ts) | [Solution Optimized](level_medium/LeetCode_1190_Reverse_Substrings_1.ts)
-19. [Leet Code 22 Generate Paranthesis](https://leetcode.com/problems/generate-parentheses/) | [Solution Brute Force](level_medium/LeetCode_22_Generate_Paranthesis_1.ts)
+19. [Leet Code 22 Generate Paranthesis](https://leetcode.com/problems/generate-parentheses/) | [Solution Brute Force](level_medium/LeetCode_22_Generate_Paranthesis_1.ts) | [Solution BF Optimized](level_medium/LeetCode_22_Generate_Paranthesis_2.ts)
 
 
 ## Hard
