@@ -114,7 +114,7 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Brute Force](./dynamic_programming/01KnapsackProblem_1.ts)
    * [Solution Dynamic Programming Top Down](./dynamic_programming/01KnapsackProblem_2.ts)
    * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/01KnapsackProblem_3.ts)
-   * [Solution Dynamic Programming with Chosen Weights](./dynamic_programming/01KnapsackProblem_4.ts)
+\   * [Solution Dynamic Programming with Chosen Weights](./dynamic_programming/01KnapsackProblem_4.ts)
    * [Solution Optimized Space 1](./dynamic_programming/01KnapsackProblem_5.ts)
    * [Solution Optimized Space 2](./dynamic_programming/01KnapsackProblem_6.ts)
 2. Equal Subset Problem
@@ -152,7 +152,10 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/MinCoinChange_2.ts)
 8. Maximum Ribbon Cut
    * [Solution Dynamic Programming Top Down](./dynamic_programming/MaximumRibbonCut_1.ts)
-   * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/MaximumRibbonCut_2.ts)
+   * [Solution Dynamic Programming Bottoms Up](./dynamic_programming/
+   * MaximumRibbonCut_2.ts)
+9. Find Longest Palindromic Subsequence
+   * [Solution Brute Force](./dynamic_programming/LongestPalindromicSubsequence_1.ts)
 
 
 # TODO Items (More topics to explore further)

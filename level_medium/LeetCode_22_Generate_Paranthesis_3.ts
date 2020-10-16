@@ -4,8 +4,13 @@
  * checks for the boundary conditions to see if the solution can be found in this path. If the
  * solution cannot be found, the solution space is backtracked and it is not explored further.
  * 
+ * Here, we define a function backtrack which keeps track of remaining number of open & closing parenthesis (denoted
+ * as m and n respectively). If m == n == 0, add the string to answer. If there are open parenthesis left (i.e. m > 0),
+ * it is possible to append an open parenthesis; if there are more closing parenthesis than open parenthesis (i.e. n >
+ * m),it is possible to append a closing parenthesis.
+ * 
  * Complexity: Time and Space O((4^n)/(n^(1/2)).
- * Refer https://leetcode.com/problems/generate-parentheses/solution/ for more details.
+ * Refer https://leetcode.com/problems/generate-parentheses/solution/ for more det
  * 
  * @param n 
  */
@@ -30,7 +35,8 @@ function genHelper(n: number, result: string[], open: number = 0, close: number 
     
     // Boundary condition to validate the backtracking again if required, or we can proceed.
     if (open > close) {
-        // 2nd condition validates if we have not added closing braces before the opening braces.
+        // We can break the current solution tree if we see that the number of closing braces are equal or greater
+        // than the opening braces, which makes the string invalid right away.
         genHelper(n, result, open, close + 1, str + ")");
     }
 }
