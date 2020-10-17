@@ -156,7 +156,8 @@ Happy to accept any contributions to this in any langugage.
    * MaximumRibbonCut_2.ts)
 9. Find Longest Palindromic Subsequence
    * [Solution Brute Force](./dynamic_programming/LongestPalindromicSubsequence_1.ts)
-
+   * [Solution DP Top Down](./dynamic_programming/LongestPalindromicSubsequence_2.ts)
+   * [Solution DP Bottoms Up](./dynamic_programming/LongestPalindromicSubsequence_3.ts)
 
 # TODO Items (More topics to explore further)
 * [All TODO Items](./TODO.md)
