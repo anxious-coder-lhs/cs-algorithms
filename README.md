@@ -158,6 +158,11 @@ Happy to accept any contributions to this in any langugage.
    * [Solution Brute Force](./dynamic_programming/LongestPalindromicSubsequence_1.ts)
    * [Solution DP Top Down](./dynamic_programming/LongestPalindromicSubsequence_2.ts)
    * [Solution DP Bottoms Up](./dynamic_programming/LongestPalindromicSubsequence_3.ts)
+10. Find Longest Palindromic Substring
+   * [Solution Brute Force](./dynamic_programming/LongestPalindromicSubstring_1.ts)
+   * [Solution BF Recursive](./dynamic_programming/LongestPalindromicSubstring_2.ts)
+   * [Solution DP Top Down](./dynamic_programming/LongestPalindromicSubstring_4.ts)
+   * [Solution DP Bottom Up](./dynamic_programming/LongestPalindromicSubstring_3.ts)
 
 # TODO Items (More topics to explore further)
 * [All TODO Items](./TODO.md)
