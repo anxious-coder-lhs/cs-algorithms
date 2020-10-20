@@ -163,6 +163,11 @@ Happy to accept any contributions to this in any langugage.
    * [Solution BF Recursive](./dynamic_programming/LongestPalindromicSubstring_2.ts)
    * [Solution DP Top Down](./dynamic_programming/LongestPalindromicSubstring_4.ts)
    * [Solution DP Bottom Up](./dynamic_programming/LongestPalindromicSubstring_3.ts)
+11. Count Total Palindromes
+    1.  [Solution Brute Force](./dynamic_programming/CountOfPalindromicSubstrings.ts)
+    2.  [Solution Recursion Brute Force](./dynamic_programming/CountOfPalindromicSubstrings.ts)
+    3.  [Solution Top Down DP](./dynamic_programming/CountOfPalindromicSubstrings.ts)
+    4.  [Solution Bottoms Up DP](./dynamic_programming/CountOfPalindromicSubstrings.ts)
 
 # TODO Items (More topics to explore further)
 * [All TODO Items](./TODO.md)
