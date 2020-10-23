@@ -168,6 +168,10 @@ Happy to accept any contributions to this in any langugage.
     2.  [Solution Recursion Brute Force](./dynamic_programming/CountOfPalindromicSubstrings.ts)
     3.  [Solution Top Down DP](./dynamic_programming/CountOfPalindromicSubstrings.ts)
     4.  [Solution Bottoms Up DP](./dynamic_programming/CountOfPalindromicSubstrings.ts)
+12. Minimum Deletions Required to make a Palindrome
+    1.  [Solution Brute Force](./dynamic_programming/MinStringDeletionPalindrome.ts)
+    2.  [Solution DP Bottoms Up](./dynamic_programming/MinStringDeletionPalindrome.ts)
+    3.  [Solution DP Top Down](./dynamic_programming/MinStringDeletionPalindrome.ts)
 
 # TODO Items (More topics to explore further)
 * [All TODO Items](./TODO.md)
