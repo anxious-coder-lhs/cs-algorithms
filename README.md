@@ -57,6 +57,7 @@ Happy to accept any contributions to this in any langugage.
 ## Hard
 1. [Find Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./level_hard/LeetCode_41_Hard.ts)
 2. [Read N Characters Given Read 4 II - Call Multiple Times - LeetCode 158](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [Solution 1](./level_hard/LeetCode_158_Hard.java) | [Solution 2 Optimized](./level_hard/LeetCode_158_Hard_1.java)
+3. [Serialize Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./level_hard/SerializeDeserializeBinaryTree.ts)
 
 ## Sorting
 1. Bubble Sort | [Solution](./sorting/Sort_Bubble.js)
