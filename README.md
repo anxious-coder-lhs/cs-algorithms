@@ -61,6 +61,7 @@ Happy to accept any contributions to this in any langugage.
 2. [Read N Characters Given Read 4 II - Call Multiple Times - LeetCode 158](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [Solution 1](./level_hard/LeetCode_158_Hard.java) | [Solution 2 Optimized](./level_hard/LeetCode_158_Hard_1.java)
 3. [Leet Code 297 - Serialize Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./level_hard/SerializeDeserializeBinaryTree.ts)
 4. [Leet Code 428 - Serialize Deserialize N-Ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) | [Solution](./level_hard/SerializeDeserializeNAryTree.ts)
+5. [Leet Code 25 - Reverse Linked List k Nodes at a time](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./level_hard/LeetCode%2025_Reverse%20Linked%20List%20K%20Nodes.ts)
 
 ## Sorting
 1. Bubble Sort | [Solution](./sorting/Sort_Bubble.js)
