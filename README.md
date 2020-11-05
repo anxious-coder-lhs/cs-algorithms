@@ -52,7 +52,8 @@ Happy to accept any contributions to this in any langugage.
 17. [Leet Code 554 Brick Wall](https://leetcode.com/problems/brick-wall/) | [Solution 1](./level_medium/LeetCode_554_Brick_Wall_Medium.ts)
 18. [Leet Code 1190 Reverse Substrings Between Each Pair of Paranthesis](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution 1](level_medium/LeetCode_1190_Reverse_Substrings.ts) | [Solution Optimized](level_medium/LeetCode_1190_Reverse_Substrings_1.ts)
 19. [Leet Code 22 Generate Paranthesis](https://leetcode.com/problems/generate-parentheses/) | [Solution Brute Force](level_medium/LeetCode_22_Generate_Paranthesis_1.ts) | [Solution BF Optimized](level_medium/LeetCode_22_Generate_Paranthesis_2.ts)
-20. [Leet Code 54 Spiral Matrix] | [Solution](./med/../level_medium/SpiralMatrix.ts)
+20. [Leet Code 54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./med/../level_medium/SpiralMatrix.ts)
+21. [Leet Code 1239 - Maximum length of the unique character string](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Solution](./level_medium/LeetCode_1239_MaxLength.ts)
 
 
 ## Hard
