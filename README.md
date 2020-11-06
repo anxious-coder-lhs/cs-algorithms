@@ -54,6 +54,9 @@ Happy to accept any contributions to this in any langugage.
 19. [Leet Code 22 Generate Paranthesis](https://leetcode.com/problems/generate-parentheses/) | [Solution Brute Force](level_medium/LeetCode_22_Generate_Paranthesis_1.ts) | [Solution BF Optimized](level_medium/LeetCode_22_Generate_Paranthesis_2.ts)
 20. [Leet Code 54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./med/../level_medium/SpiralMatrix.ts)
 21. [Leet Code 1239 - Maximum length of the unique character string](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Solution](./level_medium/LeetCode_1239_MaxLength.ts)
+22. [Leet Code 445 - Add Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution 1](./level_medium/LeetCode%20445_Add%202%20Numbers_1.ts) | [Solution 2](./level_medium/LeetCode%20445_Add%202%20Numbers_2.ts)
+23. [Leet Code 59 - Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](level_medium/SpiralMatrixII.ts)
+
 
 
 ## Hard
@@ -62,8 +65,7 @@ Happy to accept any contributions to this in any langugage.
 3. [Leet Code 297 - Serialize Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./level_hard/SerializeDeserializeBinaryTree.ts)
 4. [Leet Code 428 - Serialize Deserialize N-Ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) | [Solution](./level_hard/SerializeDeserializeNAryTree.ts)
 5. [Leet Code 25 - Reverse Linked List k Nodes at a time](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./level_hard/LeetCode%2025_Reverse%20Linked%20List%20K%20Nodes.ts)
-6. [Leet Code 445 - Add Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution 1](./level_medium/LeetCode%20445_Add%202%20Numbers_1.ts) | [Solution 2](./level_medium/LeetCode%20445_Add%202%20Numbers_2.ts)
-
+   
 ## Sorting
 1. Bubble Sort | [Solution](./sorting/Sort_Bubble.js)
 2. Insertion Sort | [Solution](./sorting/Sort_Insertion.js)
