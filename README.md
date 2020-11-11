@@ -57,7 +57,7 @@ Happy to accept any contributions to this in any langugage.
 22. [Leet Code 445 - Add Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution 1](./level_medium/LeetCode%20445_Add%202%20Numbers_1.ts) | [Solution 2](./level_medium/LeetCode%20445_Add%202%20Numbers_2.ts)
 23. [Leet Code 59 - Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](level_medium/SpiralMatrixII.ts)
 24. [Leet Code 151 - Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](level_medium/LeetCode_151_Reverse_Words_In_a_String.ts)
-
+25. [Leet Code 1647 - Minimum Deletions to Make Character Frequency Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Solution](level_medium/LeetCode_1647_Min_Deletions_For_Unique_Freq.ts)
 
 
 ## Hard
