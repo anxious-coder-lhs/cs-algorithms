@@ -59,6 +59,7 @@ Happy to accept any contributions to this in any langugage.
 24. [Leet Code 151 - Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](level_medium/LeetCode_151_Reverse_Words_In_a_String.ts)
 25. [Leet Code 1647 - Minimum Deletions to Make Character Frequency Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Solution](level_medium/LeetCode_1647_Min_Deletions_For_Unique_Freq.ts)
 26. [Microsoft OA - Max Sum of Numbers with Equal Sum Digits](https://leetcode.com/discuss/interview-question/915683/) | [Solution](./level_medium/MaxSumOfNumbersWithEqualSumOfDigit.ts)
+27. [Microsoft OA - Min Moves to Make String without 3 Identical Chars](https://molchevskyi.medium.com/microsoft-interview-tasks-min-moves-to-make-string-without-3-identical-consecutive-letters-abe61ed51a10) | [Solution](./level_medium/MinMovesToMakeStringWithout3IdenticalChars.ts)
 
 
 ## Hard
