@@ -60,6 +60,8 @@ Happy to accept any contributions to this in any langugage.
 25. [Leet Code 1647 - Minimum Deletions to Make Character Frequency Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Solution](level_medium/LeetCode_1647_Min_Deletions_For_Unique_Freq.ts)
 26. [Microsoft OA - Max Sum of Numbers with Equal Sum Digits](https://leetcode.com/discuss/interview-question/915683/) | [Solution](./level_medium/MaxSumOfNumbersWithEqualSumOfDigit.ts)
 27. [Microsoft OA - Min Moves to Make String without 3 Identical Chars](https://molchevskyi.medium.com/microsoft-interview-tasks-min-moves-to-make-string-without-3-identical-consecutive-letters-abe61ed51a10) | [Solution](./level_medium/MinMovesToMakeStringWithout3IdenticalChars.ts)
+28. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) | [Solution 1](./level_medium/LeetCode_351_Android_Unlock.ts) | [Solution 2](/level_medium/LeetCode_351_Android_Unlock_1.ts)
+29. [Leet Code 1573 - Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Solution 1](./level_medium/LeetCode_1573_Number_Of_Ways_To_Split_String_1.ts) | [Solution](./level_medium/LeetCode_1573_Number_Of_Ways_To_Split_String.ts)
 
 
 ## Hard
