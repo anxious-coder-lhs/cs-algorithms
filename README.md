@@ -62,6 +62,8 @@ Happy to accept any contributions to this in any langugage.
 27. [Microsoft OA - Min Moves to Make String without 3 Identical Chars](https://molchevskyi.medium.com/microsoft-interview-tasks-min-moves-to-make-string-without-3-identical-consecutive-letters-abe61ed51a10) | [Solution](./level_medium/MinMovesToMakeStringWithout3IdenticalChars.ts)
 28. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) | [Solution 1](./level_medium/LeetCode_351_Android_Unlock.ts) | [Solution 2](/level_medium/LeetCode_351_Android_Unlock_1.ts)
 29. [Leet Code 1573 - Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Solution 1](./level_medium/LeetCode_1573_Number_Of_Ways_To_Split_String_1.ts) | [Solution](./level_medium/LeetCode_1573_Number_Of_Ways_To_Split_String.ts)
+30. [Leet Code 322: Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./level_medium/LeetCode_322_Coins_Change_1.ts) | [Sol 2](./level_medium/LeetCode_322_Coins_Change_2.TS) | [Sol 3](./level_medium/LeetCode_322_Coins_Change.ts)
+31. [Leet Code 927 - 3 Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [Solution 1](./level_medium/LeetCode_927_Three_Equal_Parts.ts) | [Solution 1](./level_medium/LeetCode_927_Three_Equal_Parts_1.ts)
 
 
 ## Hard
