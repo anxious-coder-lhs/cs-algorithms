@@ -64,6 +64,10 @@ Happy to accept any contributions to this in any langugage.
 29. [Leet Code 1573 - Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Solution 1](./level_medium/LeetCode_1573_Number_Of_Ways_To_Split_String_1.ts) | [Solution](./level_medium/LeetCode_1573_Number_Of_Ways_To_Split_String.ts)
 30. [Leet Code 322: Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./level_medium/LeetCode_322_Coins_Change_1.ts) | [Sol 2](./level_medium/LeetCode_322_Coins_Change_2.TS) | [Sol 3](./level_medium/LeetCode_322_Coins_Change.ts)
 31. [Leet Code 927 - 3 Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [Solution 1](./level_medium/LeetCode_927_Three_Equal_Parts.ts) | [Solution 1](./level_medium/LeetCode_927_Three_Equal_Parts_1.ts)
+32. [Leet Code 103 - Tree Zig Zag](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./level_medium/LeetCode_103_Tree_ZigZag_1.ts) | [Solution](./level_medium/LeetCode_103_Tree_ZigZag_2.ts) | [Solution](./level_medium/LeetCode_103_Tree_ZigZag_3.ts)
+33. [Leet Code 33 - Search in rotated](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution 1](./level_medium/LeetCode_33_Search_In_Rotated_Array_1.ts) | [Solution 2](./level_medium/LeetCode_33_Search_In_Rotated_Array.ts)
+34. [Leet Code 1578 - Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [Solution](./level_medium/LeetCode_1578_Min_Chars_To_Remove_Duplicates.ts)
+35. [Leet Code 1576 - Replace All ?s](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [Solution](./level_medium/LeetCode_1576_Replace_All_?.ts)
 
 
 ## Hard
